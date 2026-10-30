@@ -21,7 +21,14 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asrafulshaheed-oss/Ai_Model_colab/blob/main/Qwen3.8-27B_Colab_Chat_v6_API-key.ipynb)
 
 
+## 🚀  Qwen2_5_Coder_14B | Run on Google Colab  | GPU = T4
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asrafulshaheed-oss/Ai_Model_colab/blob/main/Qwen2_5_Coder_14B_Colab_Chat_v5_API-key.ipynb)
+
+
+## 🚀  DeepSeek_Coder_V2_Lite | Run on Google Colab  | GPU = T4
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asrafulshaheed-oss/Ai_Model_colab/blob/main/DeepSeek_Coder_V2_Lite_Colab_Chat_v5_API-key.ipynb)
 
 ## In cell 2 output , scroll to bottom for link
 
