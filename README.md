@@ -39,3 +39,28 @@
 ## In cell 2 output , scroll to bottom for link
 
 **For cell 1, first it may take upto 1 hour, wait patiently**
+
+
+## 🦆 Cyber-Quack-14B_Chat | Cybersecurity Research Assistant
+
+### ☁️ Google Colab | GPU = T4
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asrafulshaheed-oss/Ai_Model_colab/blob/main/CyberQuack_Colab_Chat_v1.ipynb)
+
+### 🏠 Kaggle | GPU = T4 ×2
+
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/asrafulshaheed-oss/Ai_Model_colab/blob/main/CyberQuack_Kaggle_Chat_v1.ipynb)
+
+---
+
+## 🐬 Dolphin3-Cyber-8B_Chat | Cybersecurity Research Assistant
+
+### ☁️ Google Colab | GPU = T4
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asrafulshaheed-oss/Ai_Model_colab/blob/main/Dolphin3Cyber_Colab_Chat_v1.ipynb)
+
+### 🏠 Kaggle | GPU = T4 ×2
+
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?src=https://github.com/asrafulshaheed-oss/Ai_Model_colab/blob/main/Dolphin3Cyber_Kaggle_Chat_v1.ipynb)
+```
+
