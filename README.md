@@ -12,7 +12,11 @@
 
 ## 🚀  Qwen2_5_Coder_7B | Run on Google Colab  | GPU = T4
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asrafulshaheed-oss/Ai_Model_colab/blob/main/Qwen2-5_Coder_7B_Colab_Chat_v5_API-key.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asrafulshaheed-oss/Ai_Model_colab/blob/main/Qwen2.5-Coder-7B_Colab_Chat_v6.ipynb)
+
+## 🚀  Qwen2_5_Coder_14B | Run on Google Colab  | GPU = T4
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asrafulshaheed-oss/Ai_Model_colab/blob/main/Qwen2.5-Coder-14B_Colab_Chat_v6.ipynb)
 
 ---
 
