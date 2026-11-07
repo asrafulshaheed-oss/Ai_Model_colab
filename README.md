@@ -18,6 +18,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asrafulshaheed-oss/Ai_Model_colab/blob/main/Qwen2.5-Coder-14B_Colab_Chat_v6.ipynb)
 
+## 🚀  Qwen3.5_9B | Run on Google Colab  | GPU = T4
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asrafulshaheed-oss/Ai_Model_colab/blob/main/Qwen3.5-9B-Uncensored_Colab_Chat_v1.ipynb)
+
 ---
 
 ## 🚀  Qwen-3.8_Colab_Chat | Run on Google Colab  | GPU = T4
