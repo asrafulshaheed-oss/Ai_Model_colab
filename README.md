@@ -28,17 +28,17 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asrafulshaheed-oss/Ai_Model_colab/blob/main/Gemma-4-E4B-Uncensored_Colab_Chat_v1.ipynb)
 
 
+
+## 🚀  Inkling-2-Mini-Uncensored | Run on Google Colab  | GPU = T4
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asrafulshaheed-oss/Ai_Model_colab/blob/main/Inkling-2-Mini-Uncensored_Colab_Chat_v1.ipynb)
+
 ---
 
 ## 🚀  Qwen-3.8_Colab_Chat | Run on Google Colab  | GPU = T4
 
-### 💬 Chat Version (API Key Required)
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asrafulshaheed-oss/Ai_Model_colab/blob/main/Qwen3.8-27B_Colab_Chat_v6.ipynb)
 
-### 🔑 Chat Version (No API Key Required)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asrafulshaheed-oss/Ai_Model_colab/blob/main/Qwen3.8-27B_Colab_Chat_v6_API-key.ipynb)
 
 
 ## 🚀  Qwen2_5_Coder_14B | Run on Google Colab  | GPU = T4
